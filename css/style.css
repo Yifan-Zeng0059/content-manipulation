@@ -238,7 +238,7 @@ footer p {
 
     .content .container img {
         border-radius: 2rem;
-        width: 25%;
+        width: 40%;
     }
     .content .container p {
         margin: 0;        
@@ -264,4 +264,5 @@ footer p {
         font-size: 1.2em;
         margin-right: 2rem;
     }
+
 }
