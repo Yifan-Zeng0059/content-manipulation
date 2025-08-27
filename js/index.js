@@ -73,4 +73,4 @@ function preloader() {
     console.log(`Preloaded images:\n\t${images[0].src}\n\t${images[1].src}\n\t${images[2].src}`);
 };
 
-splitComplimentary.addEventListener("load", preloader);
+window.addEventListener("load", preloader);
